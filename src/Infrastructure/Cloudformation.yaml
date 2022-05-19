@@ -41,19 +41,23 @@ Resources:
                     [
                         {
                           "id": 1,
-                          "title": "Kabab"
+                          "title": "Kabab",
+                          "image":"https://s3.eu-west-2.amazonaws.com/code2inspire.uk/img/kebab.jpg"
                         }, 
                         {
                           "id": 2,
-                          "title": "Naan"
+                          "title": "Naan",
+                          "image": "https://s3.eu-west-2.amazonaws.com/code2inspire.uk/img/Naan.jpg"
                         }, 
                         {
                           "id": 3,
-                          "title": "Biryani"
+                          "title": "Biryani",
+                          "image": "https://s3.eu-west-2.amazonaws.com/code2inspire.uk/img/Biryani.jpg"
                         }, 
                         {
                           "id": 4,
-                          "title": "Haleem"
+                          "title": "Haleem",
+                          "image": "https://s3.eu-west-2.amazonaws.com/code2inspire.uk/img/Haleem.jpg"
                         }
                       ] 
                 }
